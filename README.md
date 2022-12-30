@@ -1,1 +1,1 @@
-# Example_crud
+# 간단한 CURD 구현
